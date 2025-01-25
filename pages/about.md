@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+I am a Research & Engagement Librarian at UCSB Library. Previously, I was Director of Digital Scholarship at the Columbia University Libraries, and prior to that, I was at University of Michigan where I was the Director of Digital Scholarship and faculty in the Digital Studies Institute and Asian Pacific-Islander/American Studies. I’m a principle of the SCRAM Collective. I’m also a writer of speculative fiction, have two dogs, two cats, and love to eat and feed people. I’m currently at work on my first novel. I occasionally will conduct author interviews and articles.
