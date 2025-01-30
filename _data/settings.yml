@@ -16,8 +16,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'bluesky', link:    'https://bsky.app/profile/anitaconchita.bsky.social'}
+- {icon: 'twitter', link:    'https://bsky.app/profile/anitaconchita.bsky.social'}
 - {icon: 'envelope', link:   'mailto:annech@ucsb.edu'}
+- {icon: 'instagram', link:    'https://instagram.com/anitaconchita_writes'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
